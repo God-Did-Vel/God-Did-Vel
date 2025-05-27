@@ -93,7 +93,8 @@
 <div align="center">
   
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=God-Did-Vel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c1&border_color=ffffff" width="400" height="200" alt="stats graph" />
+  <img src="https://github-readme-st-git-186505-mfonisocletus124-gmailcoms-projects.vercel.app/api?username=God-Did-Vel&show_icons=true&count_private=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c1" width="400" height="200" alt="GitHub Stats" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=God-Did-Vel&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false&custom_title=languages&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c1&border_color=ffffff" width="400" height="200" alt="languages graph" />
 </div>
