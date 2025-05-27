@@ -91,8 +91,9 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=God-Did-Vel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=God-Did-Vel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2&custom_title=languages" height="350" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=God-Did-Vel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c1&border_color=ffffff" height="200" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=God-Did-Vel&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=10&hide_border=false&custom_title=languages&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c1&border_color=ffffff" height="200" alt="languages graph" />
+
 
 ###
