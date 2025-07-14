@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">I am Mfoniso Vel,  from Nigeria.<br><br>🖳 A  developer skilled in JavaScript, React, Tailwind CSS, Django, Python, and Node.js. Passionate about building responsive and scalable web applications.</p>
+<p align="left">I am Mfoniso Vel, 🖳 A  developer skilled in JavaScript, React, Tailwind CSS, Django, Python, and Node.js. Passionate about building responsive and scalable web applications.</p>
 
 ###
 
